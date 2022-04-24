@@ -2,9 +2,10 @@
 
 ---
 
-### Rina's Project 
+### Category Name 1 
 
-[Dummy Project](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Project1.ipynb)
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
