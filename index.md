@@ -4,7 +4,7 @@
 
 ### Rina's Project 
 
-[Dummy Project](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Untitled4.ipynb)
+[Dummy Project](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Project1.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
