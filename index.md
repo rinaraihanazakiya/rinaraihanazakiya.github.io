@@ -5,6 +5,7 @@
 ### Project 1 
 
 [Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
+<img src="images/sampah.jfif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
