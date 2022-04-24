@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Rina's Project 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dummy Project](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Untitled4.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +18,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Untitled4.ipynb)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
