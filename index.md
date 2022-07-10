@@ -12,7 +12,7 @@
 ### Project 2
 
 [Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fraud-detection.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
