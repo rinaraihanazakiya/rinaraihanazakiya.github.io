@@ -19,7 +19,7 @@
 ### Project 3
 
 [Customer Segmentation](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
