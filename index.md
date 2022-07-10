@@ -11,7 +11,7 @@
 
 ### Project 2
 
-[Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud_Detection.ipynb)
+[Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
