@@ -8,7 +8,7 @@
 <img src="images/sampah.jfif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud Detection.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
