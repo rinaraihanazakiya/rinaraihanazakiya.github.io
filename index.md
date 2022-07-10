@@ -8,8 +8,7 @@
 <img src="images/sampah.jfif?raw=true"/>
 
 ---
-[Fraud Detection]
-(https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud Detection.ipynb)
+[Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud_Detection.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
