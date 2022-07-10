@@ -11,7 +11,7 @@
 
 ### Project 2
 
-[Fraud Detection](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
+[Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
 <img src="images/fraud-detection.jpeg?raw=true"/>
 
 ---
