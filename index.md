@@ -28,6 +28,8 @@
 [Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 <img src="images/RNN dan LSTM.png?raw=true"/>
 
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
