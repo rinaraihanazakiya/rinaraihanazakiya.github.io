@@ -18,7 +18,7 @@
 
 ### Project 3
 
-[Customer Segmentation](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
+[Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
 
 ---
