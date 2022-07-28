@@ -32,7 +32,7 @@
 
 ### Project 5
 
-[Analisis Integrasi Pasar Bawang Merah di Provinsi Jawa Barat Menggunakan Analisis Vector Error Correction Model (VECM)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
+[Analisis Integrasi Pasar Bawang Merah di Provinsi Jawa Barat Menggunakan Analisis Vector Error Correction Model (VECM)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Analisis%20Integrasi%20Pasar%20Bawang%20Merah%20di%20Provinsi%20Jawa%20Barat.pdf)
 
 ---
 
