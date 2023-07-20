@@ -24,7 +24,7 @@
 
 ### Project 4
 
-[Exercise SQL Data Penjualan E-commerce Tokopedia]
+[Exercise SQL Data Penjualan E commerce Tokopedia]
 (https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/7bd1457ffe3b23b36256361d8e4a2c9a30f7156c/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
 
 ---
