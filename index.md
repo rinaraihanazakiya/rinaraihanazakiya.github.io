@@ -36,6 +36,11 @@
 
 ---
 
+### Project 6
+
+[Visualisasi Data & Informasi Perguruan Tinggi di Lingkungan LLDIKTI IV (1)]
+(https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Visualisasi%20Data%20&%20Informasi%20Perguruan%20Tinggi%20di%20Lingkungan%20LLDIKTI%20IV%20.pdf)
+
 ---
 
 
