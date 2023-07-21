@@ -29,6 +29,7 @@
 ### Project 4
 
 [Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
+
 <img src="images/fraud-detection.jpeg?raw=true"/>
 
 ---
@@ -42,6 +43,7 @@
 ### Project 6
 
 [Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
+
 <img src="images/sampah.jfif?raw=true"/>
 
 ---
@@ -49,6 +51,7 @@
 ### Project 7
 
 [Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
+
 <img src="images/RNN dan LSTM.png?raw=true"/>
 
 ---
