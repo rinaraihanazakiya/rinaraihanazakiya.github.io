@@ -24,8 +24,7 @@
 
 ### Project 4
 
-[Exercise SQL Data Penjualan E commerce Tokopedia]
-(https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/7bd1457ffe3b23b36256361d8e4a2c9a30f7156c/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
+[Exercise SQL Data Penjualan E commerce Tokopedia](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
 
 ---
 
@@ -37,7 +36,8 @@
 
 ### Project 6
 
-[Visualisasi Data & Informasi Perguruan Tinggi di Lingkungan LLDIKTI IV (1)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/a6b5afed646f8803af1bc44fdc9c156e2d18e826/Visualisasi%20Data%20%26%20Informasi%20Perguruan%20Tinggi%20di%20Lingkungan%20LLDIKTI%20IV%20(1).pdf)
+[Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
+<img src="images/sampah.jfif?raw=true"/>
 
 ---
 
