@@ -46,7 +46,7 @@
 
 [Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
 
-<img src="images/sampah.jfif?raw=true"/>
+<img src="images/Fraud Detection (2).png?raw=true"/>
 
 ---
 
@@ -60,7 +60,9 @@
 ### Project 8
 
 [Customer Segmentation](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
-<img src="images/download.jfif?raw=true"/>
+
+<img src="images/Fraud Detection (3).png?raw=true"/>
+
 
 ---
 
