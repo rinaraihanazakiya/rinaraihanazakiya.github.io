@@ -54,7 +54,7 @@
 
 [Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
-<img src="images/RNN dan LSTM.png?raw=true"/>
+<img src="images/Fraud Detection (4).png?raw=true"/>
 
 ---
 ### Project 8
