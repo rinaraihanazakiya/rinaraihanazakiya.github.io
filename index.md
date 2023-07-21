@@ -10,21 +10,20 @@
 
 ### Project 2
 
-[Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
-<img src="images/fraud-detection.jpeg?raw=true"/>
+[Exercise SQL Data Penjualan E commerce Tokopedia](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
 
 ---
 
 ### Project 3
 
-[Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
-<img src="images/sampah.jfif?raw=true"/>
+[Exercise Python as Data Analyst in a Company](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/d8e2517004f867695eb42124f185d49a69a949e6/Exercise%20Python%20as%20a%20Data%20Analyst%20in%20a%20Company.pdf)
 
 ---
 
 ### Project 4
 
-[Exercise SQL Data Penjualan E commerce Tokopedia](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
+[Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
+<img src="images/fraud-detection.jpeg?raw=true"/>
 
 ---
 
