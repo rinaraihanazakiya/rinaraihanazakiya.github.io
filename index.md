@@ -6,6 +6,8 @@
 
 [Visualisasi Data & Informasi Perguruan Tinggi di Lingkungan LLDIKTI IV (1)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/a6b5afed646f8803af1bc44fdc9c156e2d18e826/Visualisasi%20Data%20%26%20Informasi%20Perguruan%20Tinggi%20di%20Lingkungan%20LLDIKTI%20IV%20(1).pdf)
 
+<img src="images/Presentasi Pendidikan Hijau Grafis Datar Keterampilan Peta (2).png?raw=true"/>
+
 ---
 
 ### Project 2
@@ -19,6 +21,8 @@
 ### Project 3
 
 [Exercise Python as Data Analyst in a Company](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/d8e2517004f867695eb42124f185d49a69a949e6/Exercise%20Python%20as%20a%20Data%20Analyst%20in%20a%20Company.pdf)
+
+<img src="images/Exercise SQL, Python, Visualization MySkill.png?raw=true"/>
 
 ---
 
