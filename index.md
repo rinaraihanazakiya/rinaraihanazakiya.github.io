@@ -30,13 +30,15 @@
 
 [Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
 
-<img src="images/fraud-detection.jpeg?raw=true"/>
+<img src="images/Fraud Detection.png?raw=true"/>
 
 ---
 
 ### Project 5
 
 [Analisis Integrasi Pasar Bawang Merah di Provinsi Jawa Barat Menggunakan Analisis Vector Error Correction Model (VECM)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Analisis%20Integrasi%20Pasar%20Bawang%20Merah%20di%20Provinsi%20Jawa%20Barat.pdf)
+
+<img src="images/Fraud Detection (1).png?raw=true"/>
 
 ---
 
