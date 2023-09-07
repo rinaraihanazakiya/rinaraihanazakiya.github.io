@@ -14,7 +14,7 @@
 
 [E-commerce Tokopedia Analysis Using SQL](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/dc72230ea8b217e273e7c216b43aefe29d87d409/E-Commerce%20Tokopedia%20Analysis%20Using%20PostgreSQL.pdf)
 
-<img src="images/E Commerce Tokopedia Analysis Using SQL.png?raw=true"/>
+<img src="images/Analysis Using SQL (Tokopedia).png?raw=true"/>
 
 ---
 
