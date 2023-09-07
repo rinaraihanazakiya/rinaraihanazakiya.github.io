@@ -28,9 +28,9 @@
 
 ### Project 4
 
-[SQL for Analysis : DVD Rental Database](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
+[SQL for Analysis : DVD Rental Database](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/5683eed61f4e5dc9c46943325b15ce70936053f1/SQL%20for%20Analysis%20%20DVD%20Rental%20Database.pdf))
 
-<img src="images/Exercise SQL, Python, Visualization MySkill.png?raw=true"/>
+<img src="images/DVD Rental Database.png?raw=true"/>
 
 ---
 
