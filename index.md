@@ -20,9 +20,9 @@
 
 ### Project 3
 
-[Exercise Python as Data Analyst in a Company](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/d8e2517004f867695eb42124f185d49a69a949e6/Exercise%20Python%20as%20a%20Data%20Analyst%20in%20a%20Company.pdf)
+[Exercise Python as Data Analyst in a Company](Pakistan's Largest E-Commerce Dataset.ipynb)
 
-<img src="images/Exercise SQL, Python, Visualization MySkill.png?raw=true"/>
+<img src="images/Pakistan Dataset Using Python.png?raw=true"/>
 
 ---
 
