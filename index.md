@@ -53,14 +53,14 @@
 
 ### Project 7
 
-[Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
+[Predicting Using RNN dan LSTM Using Python](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
-<img src="images/Predicting Using RNN dan LSTM.png?raw=true"/>
+<img src="images/RNN dan LSTM.png?raw=true"/>
 
 ---
 ### Project 8
 
-[Customer Segmentation](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
+[Customer Segmentation Unsupervised Clustering Using Python](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
 
 <img src="images/Customer Segmentasion.png?raw=true"/>
 
