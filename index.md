@@ -28,8 +28,9 @@
 
 ### Project 4
 
-[Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
+[SQL for Analysis : DVD Rental Database](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
 
+<img src="images/Exercise SQL, Python, Visualization MySkill.png?raw=true"/>
 
 ---
 
