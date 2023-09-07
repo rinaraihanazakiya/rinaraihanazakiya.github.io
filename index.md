@@ -36,7 +36,9 @@
 
 ### Project 5
 
-[Analisis Integrasi Pasar Bawang Merah di Provinsi Jawa Barat Menggunakan Analisis Vector Error Correction Model (VECM)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Analisis%20Integrasi%20Pasar%20Bawang%20Merah%20di%20Provinsi%20Jawa%20Barat.pdf)
+[Exploratory Data Analysis (EDA) Using Python](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/34ce83345991baa46e67de03263ca103272a61c8/Exploratory%20Data%20Analysis%20(EDA)%20Using%20Python.ipynb)
+
+<img src="images/EDA Using Python.png?raw=true"/>
 
 
 ---
