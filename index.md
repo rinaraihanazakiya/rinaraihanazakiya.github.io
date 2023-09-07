@@ -20,7 +20,7 @@
 
 ### Project 3
 
-[Exercise Python as Data Analyst in a Company](Pakistan's Largest E-Commerce Dataset.ipynb)
+[Pakistan's Largest E-Commerce Dataset.ipynb](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/bed5974f90547a11394825da0f856cf9320fff87/Pakistan's%20Largest%20E-Commerce%20Dataset.ipynb)
 
 <img src="images/Pakistan Dataset Using Python.png?raw=true"/>
 
