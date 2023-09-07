@@ -12,7 +12,7 @@
 
 ### Project 2
 
-[E-commerce Tokopedia Analysis Using SQL](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
+[E-commerce Tokopedia Analysis Using SQL](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/dc72230ea8b217e273e7c216b43aefe29d87d409/E-Commerce%20Tokopedia%20Analysis%20Using%20PostgreSQL.pdf)
 
 <img src="images/E Commerce Tokopedia Analysis Using SQL.png?raw=true"/>
 
@@ -53,9 +53,9 @@
 
 ### Project 7
 
-[Predicting Using RNN dan LSTM Using Python](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
+[Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
-<img src="images/RNN dan LSTM.png?raw=true"/>
+<img src="images/Predicting Using RNN and LSTM.png?raw=true"/>
 
 ---
 ### Project 8
