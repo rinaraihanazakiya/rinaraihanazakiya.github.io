@@ -30,7 +30,6 @@
 
 [Fraud Detection Menggunakan Regresi Logistik](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Fraud%20Detection.ipynb)
 
-<img src="images/Fraud Detection.png?raw=true"/>
 
 ---
 
@@ -38,7 +37,6 @@
 
 [Analisis Integrasi Pasar Bawang Merah di Provinsi Jawa Barat Menggunakan Analisis Vector Error Correction Model (VECM)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Analisis%20Integrasi%20Pasar%20Bawang%20Merah%20di%20Provinsi%20Jawa%20Barat.pdf)
 
-<img src="images/Fraud Detection (1).png?raw=true"/>
 
 ---
 
@@ -46,22 +44,18 @@
 
 [Klasifikasi Jenis Sampah dengan Menggunakan Algoritma Convolutional Neural Network (CNN)](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Klasifikasi_Jenis_Sampah_dengan_Menggunakan_Algoritma_Convolutional_Neural_Network_(CNN).ipynb)
 
-<img src="images/Fraud Detection (2).png?raw=true"/>
-
 ---
 
 ### Project 7
 
 [Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
-<img src="images/Fraud Detection (4).png?raw=true"/>
 
 ---
 ### Project 8
 
 [Customer Segmentation](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Customer%20Segmentation.ipynb)
 
-<img src="images/Fraud Detection (3).png?raw=true"/>
 
 
 ---
