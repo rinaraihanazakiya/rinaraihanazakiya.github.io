@@ -20,9 +20,9 @@
 
 ### Project 3
 
-[Pakistan's Largest E-Commerce Dataset.ipynb](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/bed5974f90547a11394825da0f856cf9320fff87/Pakistan's%20Largest%20E-Commerce%20Dataset.ipynb)
+[Pakistan's Largest E-Commerce Dataset Using Python](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/bed5974f90547a11394825da0f856cf9320fff87/Pakistan's%20Largest%20E-Commerce%20Dataset.ipynb)
 
-<img src="images/Pakistan Dataset Using Python.png?raw=true"/>
+<img src="images/Pakistan Datasest Using Python.png?raw=true"/>
 
 ---
 
