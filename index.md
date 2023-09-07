@@ -53,7 +53,7 @@
 
 ### Project 7
 
-[Predicting Using RNN dan LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
+[Predicting Using RNN and LSTM](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/main/Predicting%20using%20RNN%20dan%20LSTM.ipynb)
 
 <img src="images/Predicting Using RNN and LSTM.png?raw=true"/>
 
