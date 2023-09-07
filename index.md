@@ -12,7 +12,7 @@
 
 ### Project 2
 
-[Exercise SQL Data Penjualan E commerce Tokopedia](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
+[E-commerce Tokopedia Analysis Using SQL](https://github.com/rinaraihanazakiya/rinaraihanazakiya.github.io/blob/daa01806b31bcd320a30794311af253363cb4772/Exercise%20SQL%20Data%20Penjualan%20E-commerce%20Tokopedia.pdf)
 
 <img src="images/E Commerce Tokopedia Analysis Using SQL.png?raw=true"/>
 
